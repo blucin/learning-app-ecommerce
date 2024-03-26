@@ -1,3 +1,5 @@
+This fork is a part of [kubernetes-resume-challenge](https://cloudresumechallenge.dev/docs/extensions/kubernetes-challenge/)
+
 # Introduction
 
 This is a sample e-commerce application built for learning purposes.
